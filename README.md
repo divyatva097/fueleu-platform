@@ -37,3 +37,23 @@ Navigate to the frontend directory, install dependencies, and start the React ap
 `cd frontend`
 `npm install`
 `npm start`
+
+### 3. Screenshots
+
+**Terminal Execution (Backend & Frontend)**
+![Backend Running](./assets/Backend_running.png)
+![Frontend Running](./assets/Frontend_running.png)
+
+**Application UI**
+
+*Routes Management & Filtering*
+![Routes Management](./assets/Fig1.png)
+
+*Compliance Comparison Dashboard*
+![Compliance Comparison](./assets/Fig2.png)
+
+*CB Banking Interface*
+![CB Banking](./assets/Fig3.png)
+
+*Compliance Pooling Selection*
+![Compliance Pooling](./assets/fig4.png)
